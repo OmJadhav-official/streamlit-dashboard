@@ -133,6 +133,17 @@ The dashboard is built to:
 
 ---
 
+## 🖼️ Dashboard Previews
+
+Here are snapshots of the interactive dashboard:
+
+![Dashboard Screenshot 1](https://github.com/OmJadhav-official/streamlit-dashboard/blob/main/screenshot1.png)  
+*Main dashboard showing food listings and filters.*
+
+![Dashboard Screenshot 2](https://github.com/OmJadhav-official/streamlit-dashboard/blob/main/screenshot2.png)  
+*Claims distribution and provider insights.*
+
+
 ## 🛠️ Tech Stack
 
 | Category         | Tools / Technologies                          |
