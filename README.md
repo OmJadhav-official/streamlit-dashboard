@@ -1,4 +1,4 @@
-# streamlit-dashboar for Data Analysis
+# streamlit-dashboard for Data Analysis
 
 This project showcases an interactive dashboard built with Streamlit and Python, powered by SQL queries from a MySQL database. It visualizes insights using dynamic charts and filters.
 
