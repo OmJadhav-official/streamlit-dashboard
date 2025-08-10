@@ -15,9 +15,9 @@ This project showcases an interactive dashboard built with Streamlit and Python,
 - Plotly
 - Pandas
 
-# 🥗 Food Donation Dashboard with Streamlit & SQL
+# 🥗 Food Waste Management Dashboard with Streamlit & SQL
 
-This project presents a data-driven dashboard for managing and analyzing food donations using Python, Streamlit, and MySQL. It enables food providers and receivers to coordinate effectively, reduce wastage, and improve distribution through interactive visualizations and SQL-powered insights.
+This project presents a data-driven dashboard for managing and analyzing foods related data using Python, Streamlit, and MySQL. It enables food providers and receivers to coordinate effectively, reduce wastage, and improve distribution through interactive visualizations and SQL-powered insights.
 
 ---
 
@@ -159,9 +159,6 @@ The dashboard is built to:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-You can add screenshots of your dashboard here once uploaded.
 
 ---
 
